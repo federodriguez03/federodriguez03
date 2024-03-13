@@ -25,3 +25,13 @@ Here are some ideas to get you started:
   <li> Languages: </li>
   
 </ul>
+
+<h2> Contact me!</h2>
+<ul>
+  <li>
+    <a href="" target="blank">
+      <img scr= https://img.shields.io/badge/rodriguezfedericoeliseo%40gmail.com-red?logo=gmail&logoColor=white
+
+    </a>  
+  </li>
+</ul>
