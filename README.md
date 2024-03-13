@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2> About me </h2>
+<ul>
+  <li> Software systems analysis student </li>
+</ul>
+
+<h2> Skills </h2>
+
+<ul> 
+  <li> Languages: </li>
+  
+</ul>
